@@ -8,7 +8,7 @@ const App = () => {
   return (
     <>
      <ChakraProvider>
-   <div>{navbar}</div>
+   <navbar/>
 
     <h1>Hey there how are you</h1>
   
